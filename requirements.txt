@@ -1,0 +1,6 @@
+opencv-contrib-python
+libhdf5-dev
+opencv-python
+face
+numpy
+pillow 
