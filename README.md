@@ -5,7 +5,7 @@ Using This Program You can Recognise your faces.
    you want to install python manually click this link to download the python interpreter.
         https://www.python.org/downloads/
   * And Download the code
-  * By in my there you can code icon and click that download in zip and unzip it .then Run it.
+  * from in there you can see code icon and click that download in zip and unzip it .then Run it.
 ! check whether module installed in your pc otherwise try this :
    * Open command prompt in your p.c
    * then check whether your command prompt in program directory or folder and 
@@ -18,6 +18,6 @@ Using This Program You can Recognise your faces.
     cd face-recognition
     sudo pip install -r requirements.txt
     sudo python3  face_recognition.py
-# M ake sure you installed the python and git otherwise run this command :
+# Make sure you installed the python and git otherwise run this command :
      sudo apt-get install git
      sudo apt-get install python3-pip
