@@ -6,7 +6,7 @@ Using This Program You can Recognise your faces.
         https://www.python.org/downloads/
   * And Download the code
   * from in there you can see code icon and click that download in zip and unzip it .then Run it.
-! check whether module installed in your pc otherwise try this :
+  * ! check whether module installed in your pc otherwise try this :
    * Open command prompt in your p.c
    * then check whether your command prompt in program directory or folder and 
    # run this command: 
