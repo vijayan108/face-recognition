@@ -9,7 +9,7 @@ Using This Program You can Recognise your faces.
 ! check whether module installed in your pc otherwise try this :
    * Open command prompt in your p.c
    * then check whether your command prompt in program directory or folder and 
-   # run these command: 
+   # run this command: 
       c:\python27\python.exe -m pip install -r requirements.txt
   
 
